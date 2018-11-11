@@ -14,6 +14,7 @@ import email.message
 
 #https://py-googletrans.readthedocs.io/en/latest/
 
+
 def send_mail():
     #lang=['hi']
     s = smtplib.SMTP('smtp.gmail.com:587')
